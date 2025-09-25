@@ -1,0 +1,13 @@
+{
+  "total_posts": 593,
+  "date_range_start": "2017-03-07",
+  "date_range_end": "2025-09-25",
+  "avg_score": 1.9139966273187183,
+  "avg_comments": 1.8499156829679595,
+  "avg_upvote_ratio": 0.935531197301855,
+  "peak_hour": "20",
+  "peak_day": "Thursday",
+  "avg_sentiment": 0.5360202360876898,
+  "positive_posts_pct": 77.06576728499157,
+  "negative_posts_pct": 15.345699831365936
+}
