@@ -138,14 +138,15 @@ Mentions across posts:
 * **Engagement is skewed** few posts gaining very high scores while the median remains low... Alot of outliers.
 * **Sentiment leans positive** though negative posts receive more attention.
 * **Job search, career transitions, and salary** dominate discussion here.
-* **Timing matters**: Saturdays at 18:00 and Wednesdays at midnight show the best time to post.
+* **Timing matters**: Saturdays at 18:00 UTC and Wednesdays at midnight show the best time to post.
 * **Recommendations for high engagement:**
 
-  * Post at Saturday, 18:00.
+  * Post at Saturday, 18:00 UTC.
   * Discuss job search, interviews, or salary-related topics.
   * Keep titles clear and concise (~60 characters).
   * Frame posts as open-ended questions to encourage comments discusions & attract keyboard warriors.
   * Don't be a student/new grad here lol.
+
 
 
 
