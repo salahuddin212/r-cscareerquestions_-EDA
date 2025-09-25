@@ -1,13 +1,13 @@
 {
-  "total_posts": 593,
-  "date_range_start": "2017-03-07",
+  "total_posts": 1230,
+  "date_range_start": "2024-09-26",
   "date_range_end": "2025-09-25",
-  "avg_score": 1.9139966273187183,
-  "avg_comments": 1.8499156829679595,
-  "avg_upvote_ratio": 0.935531197301855,
-  "peak_hour": "20",
-  "peak_day": "Thursday",
-  "avg_sentiment": 0.5360202360876898,
-  "positive_posts_pct": 77.06576728499157,
-  "negative_posts_pct": 15.345699831365936
+  "avg_score": 340.02764227642274,
+  "avg_comments": 90.36666666666666,
+  "avg_upvote_ratio": 0.7304552845528456,
+  "peak_hour": "0",
+  "peak_day": "Wednesday",
+  "avg_sentiment": 0.37105512195121954,
+  "positive_posts_pct": 69.10569105691057,
+  "negative_posts_pct": 26.585365853658537
 }
